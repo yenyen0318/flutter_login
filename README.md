@@ -1,16 +1,11 @@
-# flutter_login
+# 登入範例示意圖
+| 註冊 | 登入 | 
+| -------- | -------- | 
+| ![](https://i.imgur.com/XyxREPg.png)    | ![](https://i.imgur.com/SMs8woh.png)     |
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* 標題區塊
+    * 背景採用圖片
+    * 標題加上框限凸顯
+* 註冊/登入區塊
+    * 以 Tab 進行切換，可使用者以滑動或典籍方式切換
+    * 送出按鈕以不規則區塊呈現
